@@ -5,7 +5,7 @@
 - 💬 Ask me about Javacript,React,MongoDB,NodeJS.
 - 📫 You can reach me at: prakhartripathi.4896@gmail.com
 
-### Connect with me : <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/prakhar-tripathi489/"> 
+### Connect with me : [![name](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-tripathi489/) 
 
 ### Knowledge of tech stack:
 <img src=	  "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
