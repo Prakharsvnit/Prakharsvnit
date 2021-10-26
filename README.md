@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning MERN stack
 - 💬 Ask me about Javacript,React,MongoDB,NodeJS.
 - 📫 You can reach me at: prakhartripathi.4896@gmail.com
+- :telephone_receiver: 6387395178
 
 ### Connect with me : [![name](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-tripathi489/) 
 
