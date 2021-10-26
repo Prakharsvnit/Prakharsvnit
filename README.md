@@ -6,6 +6,9 @@
 - 📫 You can reach me at: prakhartripathi.4896@gmail.com
 - :telephone_receiver: 6387395178
 
+### Portfolio
+ https://portfolio-prakharsvnit.vercel.app 
+
 ### Connect with me : [![name](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-tripathi489/) 
 
 ### Knowledge of tech stack:
