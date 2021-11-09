@@ -7,7 +7,7 @@
 - :telephone_receiver: 6387395178
 
 ### Portfolio
-http://prakharsvnit.github.io/portfolio2 
+https://prakhar489.netlify.app/ 
 
 ### Connect with me : [![name](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-tripathi489/) 
 
