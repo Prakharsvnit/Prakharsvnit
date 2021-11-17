@@ -1,3 +1,4 @@
+<div style="text-align:center">
 ## Hi,I'm Prakhar 👋
 ### I'm a Aspiring Web developer
 
@@ -31,3 +32,4 @@ https://prakhar489.netlify.app/
  <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Prakharsvnit&show_icons=true&theme=default" width="47%"/> 
 </div>
+    </div>
