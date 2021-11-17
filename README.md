@@ -1,6 +1,5 @@
-<div style="text-align:center">
 ## Hi,I'm Prakhar 👋
-### I'm a Aspiring Web developer
+### I'm a Full Stack Web developer
 
 - 🌱 I’m currently learning MERN stack
 - 💬 Ask me about Javacript,React,MongoDB,NodeJS.
