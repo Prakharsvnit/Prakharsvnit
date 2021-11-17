@@ -24,10 +24,10 @@ https://prakhar489.netlify.app/
 ## GitHub Analytics
 
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek1117&theme=default&&layout=compact" width="47%"/>
-    <img align="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sathya's's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Malek1117&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="47%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharsvnit&theme=default&&layout=compact" width="47%"/>
+    <img align="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prakhar's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Prakharsvnit&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="47%"/>
  </div>
  <br />
  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Malek1117&show_icons=true&theme=default" width="47%"/> 
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Prakharsvnit&show_icons=true&theme=default" width="47%"/> 
 </div>
