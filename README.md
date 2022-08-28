@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning MERN stack
 - 💬 Ask me about Javacript,React,MongoDB,NodeJS.
-- 📫 You can reach me at: prakhartripathi.4896@gmail.com
+- 📫 You can reach me at: devprakhar@outlook.com
 - :telephone_receiver: 6387395178
 
 ### Portfolio
