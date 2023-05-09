@@ -1,8 +1,8 @@
 ## Hi,I'm Prakhar 👋
-### I'm a Full Stack Web developer
+### I'm a Frontend developer
 
-- 🌱 I’m currently learning MERN stack
-- 💬 Ask me about Javacript,React,MongoDB,NodeJS.
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about Javacript,TypeScript,React,Next.js,Redux,Tailwind CSS
 - 📫 You can reach me at: devprakhar@outlook.com
 - :telephone_receiver: 6387395178
 
