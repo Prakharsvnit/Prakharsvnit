@@ -10,15 +10,12 @@
   <a href="" style="font-weight: bold; text-decoration: underline;" target="_blank">Portfolio</a>
 </div>
 
-<hr style="height: 1px; border: none">
-
 <!---------------------------Connect--------------------->
 <div align='center'>
 
   <h2>Let's Connect 🤝</h2>
 
-📱 +91 6387395178
-📧 devprakhar@outlook.com
+📱 +91 6387395178 📧 devprakhar@outlook.com
 
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/prakhar489/" style="color: darkblue; font-weight: bold; text-decoration: underline;" target="_blank">LinkedIn</a>
@@ -26,8 +23,6 @@
   <a href="https://www.youtube.com/@prakhartripathi5281/" style="color: red; font-weight: bold; text-decoration: underline;" target="_blank">YouTube</a>
   <a href="https://prakharsvnit.wordpress.com/" style="color: black; font-weight: bold; text-decoration: underline;" target="_blank">Wordpress</a>
 </div>
-
-<hr style="height: 1px; border: none;">
 
 <!---------------------Tech Stack------------------------->
 <h2 align='center'>Tech stack 💻</h2>
@@ -53,8 +48,6 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
 </div>
-
-<hr style="height: 1px; border: none;">
 
 <!---------------------Git Stats------------------------->
 
