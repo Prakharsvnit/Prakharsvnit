@@ -4,7 +4,7 @@
 
 ## I'm a **Full Stack Web Developer**
 
-[Resume](link-to-resume)
+[Resume](https://drive.google.com/file/d/1Zb0Ftt-6CxP2EbkPvbk0rZo997LFXHbw/view?usp=sharing)
 [Portfolio](link-to-portfolio)
 
 <!-- Connect -->
