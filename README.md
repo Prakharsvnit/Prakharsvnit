@@ -14,7 +14,7 @@
 📱 +91 6387395178  
 📧 devprakhar@outlook.com
 
-[LinkedIn](https://www.linkedin.com/in/prakhar489/) [Twitter](https://twitter.com/prakhar_4896) [YouTube](https://www.youtube.com/@prakhartripathi5281/) [Wordpress](https://prakharsvnit.wordpress.com/)
+[LinkedIn](https://www.linkedin.com/in/prakhar489/) [Twitter](https://twitter.com/prakhar_4896) [YouTube](https://www.youtube.com/@prakhartripathi5281/) [Blog](https://prakharsvnit.wordpress.com/)
 
 <!---------------------Tech Stack------------------------->
 
