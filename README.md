@@ -4,8 +4,8 @@
 
 ## I'm a **Full Stack Web Developer**
 
-[Resume](https://drive.google.com/file/d/1Zb0Ftt-6CxP2EbkPvbk0rZo997LFXHbw/view?usp=sharing)
-[Portfolio](link-to-portfolio)
+[Resume](https://drive.google.com/file/d/1t-Pv8yLYjgz5PtMJldVtw16jaIeL8p06/view?usp=sharing)
+[Portfolio](https://prakhar489.netlify.app/)
 
 <!-- Connect -->
 
@@ -14,7 +14,7 @@
 📱 +91 6387395178  
 📧 devprakhar@outlook.com
 
-[LinkedIn](https://www.linkedin.com/in/prakhar489/) [Twitter](https://twitter.com/prakhar_4896) [YouTube](https://www.youtube.com/@prakhartripathi5281/) [Blog](https://prakharsvnit.wordpress.com/)
+[LinkedIn](https://www.linkedin.com/in/prakhar489/) [Twitter](https://twitter.com/prakhar_4896) [YouTube](https://www.youtube.com/@prakhartripathi5281/) [Blog](https://prakhartripathi.hashnode.dev/)
 
 <!---------------------Tech Stack------------------------->
 
